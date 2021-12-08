@@ -1,4 +1,4 @@
-# eyantra-server
+server
 
 copy env.example.js to env.js and update the variables
 
